@@ -29,3 +29,5 @@ apt-get install -y rxvt-unicode
 apt-get install -y neofetch
 apt-get install -y network-manager-gnome
 apt-get install -y pulseaudio
+
+update-grub
