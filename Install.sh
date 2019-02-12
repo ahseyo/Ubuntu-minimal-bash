@@ -25,5 +25,7 @@ apt-get install -y libreoffice
 apt-get install -y spotify
 apt-get install -y irssi
 apt-get install -y python3-pip
-apt-get install -y xterm
+apt-get install -y rxvt-unicode
 apt-get install -y neofetch
+apt-get install -y network-manager-gnome
+apt-get install -y pulseaudio
