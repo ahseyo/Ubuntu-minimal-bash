@@ -20,5 +20,10 @@ apt-get install -y xauth xorg
 apt-get install -y firefox
 apt-get install -y transmission
 apt-get install -y ranger
-apt-get install -y mpdd
-apt-get install -y mpd
+apt-get install -y mpd mpc ncmpcpp 
+apt-get install -y libreoffice
+apt-get install -y spotify
+apt-get install -y irssi
+apt-get install -y python3-pip
+apt-get install -y xterm
+apt-get install -y neofetch
